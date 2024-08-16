@@ -1,0 +1,11 @@
+.text-primary {
+    color: #81c408 !important;
+}
+
+.navbar-expand-xl .navbar-nav {
+    flex-direction: row;
+}
+.navbar .navbar-nav .nav-link:hover, .navbar .navbar-nav .nav-link.active, .fixed-top.bg-white .navbar .navbar-nav .nav-link:hover, .fixed-top.bg-white .navbar .navbar-nav .nav-link.active {
+    color: var(--bs-primary);
+}
+
